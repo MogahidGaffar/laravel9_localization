@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>How to Create Multi Language Website in Laravel - ItSolutionStuff.com</title>
+    <title>How to Create Multi Language Website in Laravel - @mogahidGaffar</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
 <body>
     <div class="container">
   
-        <h1>How to Create Multi Language Website in Laravel - ItSolutionStuff.com</h1>
+        <h1>How to Create Multi Language Website in Laravel - @mogahidGaffar</h1>
   
         <div class="row">
             <div class="col-md-2 col-md-offset-6 text-right">
