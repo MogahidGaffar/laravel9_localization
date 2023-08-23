@@ -2,6 +2,6 @@
   
 return [
   
-    'title' => 'This is English Language Title.',
+    'title' => 'Ceci est le titre fr langue anglaise.',
   
 ];
